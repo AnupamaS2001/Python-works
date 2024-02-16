@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+}
+h1{
+color: white;
+text-decoration: underline;
+text-align: center;
+}
+#id_main{color: aqua;}
+
+.p-danger{
+    color: red;
+    border-width: 2px;
+    border-style: solid;
+    border-color: red;
+}
+.p-info{
+    color: blue;
+    border-width: 2px;
+    border-style: solid;
+    border-color: blue;
+}

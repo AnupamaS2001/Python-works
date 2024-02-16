@@ -1,0 +1,1 @@
+pc=[c.get("name") for c in data for v.data v.variants.c.get("price")<600]

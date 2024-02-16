@@ -1,0 +1,3 @@
+temp_deg=36
+temp_far=(temp_deg*9)/(5+32)
+print(f"fahreneint={temp_far}")

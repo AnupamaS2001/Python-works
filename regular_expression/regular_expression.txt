@@ -1,0 +1,9 @@
+pattern matching
+eg: ph no,vehicle no,mail id,pan no,tyre code
+re.py
+def finditer(patteren,string):- find patterns in text(string)
+ return iterator
+def fullmatch():- find exact match
+def search():
+def start():
+def group():
